@@ -30,8 +30,8 @@
     },
      {
    "id":9,
-      "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/the%20man%20from%20nowhere%2Fphoto_2024-09-12_16-43-27.jpg?alt=media&token=c03bad9a-e65f-468c-a45d-8aff3306dfb4",
-      "wene":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/the%20man%20from%20nowhere%2Ffrom.jpg?alt=media&token=e4ea9966-06f1-4074-9c13-83b38b6183b5",
+      "wene1":"https://m.media-amazon.com/images/M/MV5BMTgzMTkxNjAxNV5BMl5BanBnXkFtZTgwMDU3MDE0MjE@._V1_.jpg",
+      "wene":"https://m.media-amazon.com/images/M/MV5BMTgzMTkxNjAxNV5BMl5BanBnXkFtZTgwMDU3MDE0MjE@._V1_.jpg",
       "ism":" ",
       "nav":"The Man from Nowhere",
     "action":"film",
@@ -58,8 +58,8 @@
     },
     {
    "id":8,
-      "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/the%20man%20from%20nowhere%2Fphoto_2024-09-12_16-43-27.jpg?alt=media&token=c03bad9a-e65f-468c-a45d-8aff3306dfb4",
-      "wene":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/the%20man%20from%20nowhere%2Ffrom.jpg?alt=media&token=e4ea9966-06f1-4074-9c13-83b38b6183b5",
+      "wene1":"https://m.media-amazon.com/images/M/MV5BMTgzMTkxNjAxNV5BMl5BanBnXkFtZTgwMDU3MDE0MjE@._V1_.jpg",
+      "wene":"https://m.media-amazon.com/images/M/MV5BMTgzMTkxNjAxNV5BMl5BanBnXkFtZTgwMDU3MDE0MjE@._V1_.jpg",
       "ism":" ",
       "nav":"The Man from Nowhere",
     "action":"film",
